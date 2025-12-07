@@ -1,0 +1,1 @@
+# vaxelrod-static
